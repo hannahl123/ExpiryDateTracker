@@ -131,11 +131,12 @@
         android:buttonTint="@color/green06"
         android:checked="true"
         android:text="@string/Set_Default"
-        android:textColor="@color/green05"
+        android:textColor="#2E7D32"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.2"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/Notification" />
+        app:layout_constraintTop_toBottomOf="@+id/Notification"
+        tools:ignore="TextContrastCheck" />
 
     <ToggleButton
         android:id="@+id/NotifButton"
