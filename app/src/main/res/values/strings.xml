@@ -23,6 +23,8 @@
     <string name="Save">Save</string>
 
     <string name="SearchButton">Search</string>
+    <string name="SearchTitle">Search</string>
+    <string name="SearchHint">Search for items, categories, expiry dates, etc.</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
